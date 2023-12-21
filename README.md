@@ -3,8 +3,8 @@ Hey! 👋
 ☞ My Name is Paula. ☜
 
 # 💫 About Me:
-⭐ I'm a full stack developer trully fascinated by ideas comming to life but also JS and improving my code and refactoring. I started seriously to write code at the end of 2021 and realised this is the kind of job I always wanted to do.
-I'm currently learning Python and also building a full stack app with Vue.js and Nuxt<br><br>
+⭐ I'm a full stack developer truly fascinated by ideas coming to life but also JS and improving my code and refactoring. I started seriously writing code at the end of 2021 and realized this was the kind of job I always wanted to do.
+I'm currently learning Python and also building a full stack app with Vue.js and Nuxt.<br><br>
 
 
 # 📊 GitHub Stats:
